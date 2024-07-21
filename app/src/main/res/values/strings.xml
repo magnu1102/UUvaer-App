@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UUvær</string>
+    <string name="multiple_alerts">Det er flere farevarsler i dag</string>
+    <string name="area">Område:</string>
+    <string name="alert">Farevarsel</string>
+    <string name="choose_among_favorites">Velg blant favoritter</string>
+    <string name="remove_place_from_favorites">Fjern sted fra favoritter</string>
+    <string name="couldnt_load_current_position">Kunne ikke laste inn nåværende posisjon</string>
+    <string name="no_permission_to_use_position">App har ikke tillatelse til å bruke posisjon</string>
+    <string name="change_location">Endre lokasjon</string>
+    <string name="back_to_weather_report">Tilbake til værvarsel</string>
+    <string name="now">Nå</string>
+    <string name="precipitation_amount">nedbørsmengde</string>
+    <string name="wind">vind</string>
+    <string name="today">I dag</string>
+    <string name="loading">Laster inn</string>
+    <string name="save_as_favorite">Lagre sted som favoritt</string>
+    <string name="search_for_place">Søk etter nytt sted</string>
+</resources>
